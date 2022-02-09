@@ -2,7 +2,4 @@
 This python script generates a QR code. 
 
 Note:-
-First for running the program you have to install its dependicies that are as folls:-
-pip install qrcode
-pip install fillow
-pip install pypng
+First for run the "Dependicies.bat" file provided with the repository as it install all the dependicies to run the program.
